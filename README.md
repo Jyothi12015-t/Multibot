@@ -7,19 +7,17 @@ Team-Name:PinkTesla
 This Bot can do multiple tasks as its Master trained.
 
 #BMI
-1.It can find the BodyMassIndex by taking the user input like height,weight then it Calculate the BMI of a person ,shows the status and also suggest the user to the best diet for good health.
+   It can find the BodyMassIndex by taking the user input like height,weight then it Calculate the BMI of a person ,shows the status and also suggest the user to the best diet for good health.
 
 #Snake_Game
-2.Bot creates a place where the user can play the snake game , i.e user give the directions to snake like move forward,backward,left,right. When the Snake hits itself or it crosses the Limited bounderies then it quit from game.Later it displays the Score of the User.
+   Bot creates a place where the user can play the snake game , i.e user give the directions to snake like move forward,backward,left,right. When the Snake hits itself or it crosses the Limited bounderies then it quit from game.Later it displays the Score of the User.
 
 #Ecommerce
-3.Here the bot  greets the user and opens the Ecommerce website according to user selection.Like showing the Flipcart Offers,Amazon Sales. 
+  Here the bot  greets the user and opens the Ecommerce website according to user selection.Like showing the Flipcart Offers,Amazon Sales. 
 
 #YOUTUBE - Video
 https://youtu.be/S9IXKMOWPOE
 
 #Imported Packages
 
-1 webbrowser imported for opening the intersted browser
-2.datetime imported for knowing the current time
-3.turtle imported
+1 webbrowser imported for opening the intersted browser, datetime imported for knowing the current time, turtle imported
