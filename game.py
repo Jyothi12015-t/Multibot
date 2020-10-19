@@ -1,3 +1,7 @@
+"""
+1. Here the bot receives the directions from user to move.
+2.It quit the game when it cross the boundaries or touch itself
+"""
 from turtle import*
 from freegames import square,vector
 from random import randrange
@@ -10,9 +14,16 @@ aim=vector(0,-10)
 def target(x,y):
     aim.x=x
     aim.y=y
-
+    
+'''
+this method refer boundaries
+'''
 def border(head):  
     return -150<head.x<140 and -150<head.y<140
+
+'''
+this method will help to change the snake length and move the diretions that user needs.  
+'''
 
 def reaching():
     head=snake[-1].copy()
