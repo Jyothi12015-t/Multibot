@@ -2,6 +2,7 @@
 1. Greetings from the bot and ask user names
 2.Displaying the Menu card that the bot can do
 3.Move with fascinated choice
+4.It can choose BMI , Snake_Game ,Web-Browse.
 """
 import random
 def greet_intro():
