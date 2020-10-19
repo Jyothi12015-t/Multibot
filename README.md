@@ -4,7 +4,7 @@
 3.19PA1A0551-Gopalam Sudheer
 
 # Objective 
-
+  Main objective of the multi_bot is to play multiple role like finding BMI , Playing Game , Browsing.  
 # Description
 This Bot can do multiple tasks as its Master trained.
 
