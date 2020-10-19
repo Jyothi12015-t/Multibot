@@ -8,16 +8,18 @@
 # Description
 This Bot can do multiple tasks as its Master trained.
 
-## BMI
+### BMI
    It can find the BodyMassIndex by taking the user input like height,weight then it Calculate the BMI of a person ,shows the status and also suggest the user to the best diet for good health.
 
-## Snake_Game
+### Snake_Game
    Bot creates a place where the user can play the snake game , i.e user give the directions to snake like move forward,backward,left,right. When the Snake hits itself or it crosses the Limited bounderies then it quit from game.Later it displays the Score of the User.
 
-## Ecommerce
+### Ecommerce
   Here the bot  greets the user and opens the Ecommerce website according to user selection.Like showing the Flipcart Offers,Amazon Sales. 
-
-## YOUTUBE - Video
+# Block-Diagram
+  ![Block_Diagram](https://raw.githubusercontent.com/Jyothi12015-t/Multibot/main/project1.png)
+  
+# YOUTUBE - Video
 [![YOUTUBE-LINK](https://img.youtube.com/vi/S9IXKMOWPOE/0.jpg)](https://www.youtube.com/watch?v=S9IXKMOWPOE)
 
 ## Imported Packages
