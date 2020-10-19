@@ -23,5 +23,5 @@ This Bot can do multiple tasks as its Master trained.
 [![YOUTUBE-LINK](https://img.youtube.com/vi/S9IXKMOWPOE/0.jpg)](https://www.youtube.com/watch?v=S9IXKMOWPOE)
 
 ## Imported Packages
-1 webbrowser imported for opening the intersted browser, datetime imported for knowing the current time, turtle imported
+1 webbrowser imported for opening the intersted browser, datetime imported for knowing the current time, turtle imported.
 
